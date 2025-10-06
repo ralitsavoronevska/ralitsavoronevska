@@ -7,8 +7,6 @@
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" alt="VSCode icon" loading="lazy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="32" height="32" alt="WebStorm icon" loading="lazy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5 icon" loading="lazy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3 icon" loading="lazy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32" height="32" alt="SASS icon" loading="lazy">
