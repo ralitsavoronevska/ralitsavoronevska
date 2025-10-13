@@ -3,7 +3,7 @@
 
 **`Mid Front-end Developer`**
 
-<p>A proactive "can-do" professional with 5 &frac12; years of experience. Building state-of-the-art, easy to use, user-friendly websites is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. Happy coding to all! :)</p>
+<p>A creative, passionate and proactive "can-do" Frontend Developer with 4 ½ years of experience in building high-performance, scalable and responsive web solutions, following all the best practices in terms of UI/UX, accessibility, SEO and SOLID principles. I am focused on crafting solutions tailored to both user needs and business objectives. I like solving problems, learning new things and experimenting with different technologies. I stand out with strong attention to detail, excellent communication and negotiation skills, as well as my ability to work well individually and/or as a part a team. I have experience in dynamic environments, I am enthusiastic regarding overcoming challenges and reaching targets.</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
