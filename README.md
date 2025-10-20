@@ -37,7 +37,7 @@
   <!-- GitHub Readme Streak Stats - https://github.com/ralitsataylor/github-readme-streak-stats -->
 <p>
   <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ralitsataylor's's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ralitsataylor&theme=jolly&hide_border=true&short_numbers=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ralitsataylor's's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ralitsavoronevska&theme=jolly&hide_border=true&short_numbers=true"/>
 </p>
 
 
