@@ -2,7 +2,11 @@
 
 **`Mid Vue.js Front-end Developer`**
 
-<p>Front-end developer with 6 years of experience building performant, scalable, fully responsive web solutions, with a mobile-first approach and strong REST API integration implementations. Since late 2025, I've started specializing in Vue 3 (Composition API), Pinia, Nuxt v4, Tailwind CSS v4, and TypeScript. My work follows solid version control, debugging, and testing practices, as well as performance optimization (code-splitting, lazy loading, batched rendering, caching), accessibility, cross-browser and cross-platform compatibility, and SEO. I bring hands-on experience integrating AI platforms into development workflows to accelerate delivery without compromising code quality. I write clean, maintainable, and well-documented code following SOLID principles, design patterns, and best practices. I adapt quickly across differing codebase conventions and team structures. I am focused on solutions that serve both user needs and business objectives. Since early 2026, I’ve been refreshing my basic Python skills.</p>
+<p>Front-end developer with 6 years of experience building performant, scalable, fully responsive web solutions, with a mobile-first approach and strong REST API integration implementations.</p>
+
+<p>Since late 2025, I've started specializing in Vue 3 (Composition API), Pinia, Nuxt v4, Tailwind CSS v4, and TypeScript. My work follows solid version control, debugging, and testing practices, as well as performance optimization (code-splitting, lazy loading, batched rendering, caching), accessibility, cross-browser and cross-platform compatibility, and SEO. I bring hands-on experience integrating AI platforms into development workflows to accelerate delivery without compromising code quality. I write clean, maintainable, and well-documented code following SOLID principles, design patterns, and best practices. I adapt quickly across differing codebase conventions and team structures. I am focused on solutions that serve both user needs and business objectives.</p>
+
+<p>Since early 2026, I’ve been refreshing my basic Python skills.</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
