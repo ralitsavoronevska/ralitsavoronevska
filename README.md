@@ -1,14 +1,16 @@
 <div>Hello there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="29px" style="max-width: 100%;"><h1 class="heading-element" dir="auto">I'm Ralitsa Voronevska :unicorn:</h1><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></div>
 
-**`Vue.js Front-end Developer`**
+**`Frontend Developer | Vue 3 | Nuxt 4 | TypeScript | JavaScript | Tailwind CSS 4`**
 
-<p>Front-end developer with 6 years of experience building performant, scalable, fully responsive web solutions, with a mobile-first approach and strong REST API integration implementations.</p>
+<p>Frontend Developer with 6+ years of professional experience, specializing in Vue.js and JavaScript/TypeScript.</p>
 
-<p>Since late 2025, I've started specializing in Vue 3 (Composition API), Pinia, Nuxt v4, Tailwind CSS v4, and TypeScript.</p> 
+<p>I build scalable, responsive web applications with Vue 3, Nuxt 4, TypeScript, JavaScript, Pinia, Vite, Vitest, and Tailwind CSS.</p>
 
-<p>My work follows solid version control, debugging, and testing practices, as well as performance optimization (code-splitting, lazy loading, batched rendering, caching), accessibility, cross-browser and cross-platform compatibility, and SEO. I bring hands-on experience integrating AI platforms into development workflows to accelerate delivery without compromising code quality. I write clean, maintainable, and well-documented code following SOLID principles, design patterns, and best practices. I adapt quickly across differing codebase conventions and team structures. I am focused on solutions that serve both user needs and business objectives.</p>
+<p>My experience includes working with REST APIs, authentication flows, reusable component architectures, responsive interfaces, performance optimization, accessibility, and cross-browser compatibility.</p>
 
-<p>Since early 2026, I’ve been refreshing my basic Python skills.</p>
+<p>I enjoy building clean, maintainable frontend solutions, exploring modern web technologies, and continuously improving my development practices.</p>
+
+<p>Currently open to Frontend Developer opportunities in Varna, Bulgaria and remote positions.</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
