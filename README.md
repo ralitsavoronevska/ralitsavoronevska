@@ -10,7 +10,7 @@
 
 <p>I enjoy building clean, maintainable frontend solutions, exploring modern web technologies, and continuously improving my development practices.</p>
 
-<p>Currently open to Frontend Developer opportunities in Varna, Bulgaria and remote positions.</p>
+<p>Currently open to Frontend Developer opportunities in Sofia, Bulgaria and remote positions.</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
